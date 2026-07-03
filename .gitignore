@@ -1,0 +1,10 @@
+# Imagens de disco e binários pesados
+*.img
+bootloader
+*.o
+
+# Arquivos compactados do kernel/entrega
+*.zip
+
+# Arquivos ocultos do sistema ou travas
+.NFS*
